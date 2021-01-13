@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 15px;
+}
+li{
+    display: flex;
+}
