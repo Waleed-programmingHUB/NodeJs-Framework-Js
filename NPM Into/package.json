@@ -1,0 +1,21 @@
+{
+  "name": "npm_intro",
+  "version": "1.0.0",
+  "description": "Learning Node Package Manager npm",
+  "main": "npm_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "WaleedProgramming-HUB"
+  },
+  "keywords": [
+    "@2021",
+    "waleed",
+    "programmer"
+  ],
+  "author": "Waleed Ali Sarwar",
+  "license": "ISC",
+  "dependencies": {}
+}
